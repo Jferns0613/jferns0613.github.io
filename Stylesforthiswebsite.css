@@ -1,0 +1,27 @@
+body {
+    font-family: 'Times New Roman', 'Times New Roman', Times, serif;
+  
+}
+h1 {
+    color: rgb(30, 194, 194);
+}
+
+
+
+td {
+    border: 1px solid lawngreen;
+    padding: 5px; 
+}
+
+table {
+    border-collapse: collapse;
+}
+
+thead {
+    font-size: larger;
+    font-weight: bold;
+}
+
+tbody {
+    font-weight: normal;
+}
